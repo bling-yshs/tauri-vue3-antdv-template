@@ -1,3 +1,1 @@
-# hdkl
-
-A template
+# A template

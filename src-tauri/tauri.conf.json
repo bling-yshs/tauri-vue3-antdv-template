@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "hdkl",
+    "productName": "hellotauri",
     "version": "0.1.0"
   },
   "tauri": {
@@ -41,7 +41,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.hdkl.desktop",
+      "identifier": "com.hellotauri.desktop",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -70,7 +70,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "hdkl",
+        "title": "hellotauri",
         "width": 800
       }
     ]
